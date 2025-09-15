@@ -1,0 +1,30 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "firstName": "Ali",
+            "lastName": "Akbarov",
+            "passport": "AB1234567",
+            "gender": "male",
+            "active": true
+        },
+        {
+            "id": 1,
+            "firstName": "Sardor",
+            "lastName": "Akbarov",
+            "passport": "AB1234567",
+            "gender": "male",
+            "active": true
+        }
+    ],
+    "documents": [
+        {
+            "id": 1,
+            "type": "invoice",
+            "number": "INV-001",
+            "createdAt": "2025-09-01",
+            "description": "Invoice for services",
+            "invoiceType": "standard"
+        }
+    ]
+}
