@@ -1,6 +1,4 @@
 <template>
-    <v-progress-circular v-if="employeeStore.loading" indeterminate color="primary" />
-
     <v-container>
         <v-card>
             <v-card-title>Сотрудники</v-card-title>
